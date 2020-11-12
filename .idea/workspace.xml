@@ -29,10 +29,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1kAZwl8RD23JAbpokPlRgJ9gTB4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -148,11 +152,23 @@
       <option name="presentableId" value="Default" />
       <updated>1605145598614</updated>
       <workItem from="1605145600486" duration="42000" />
-      <workItem from="1605145661148" duration="14450000" />
+      <workItem from="1605145661148" duration="14842000" />
     </task>
+    <task id="LOCAL-00001" summary="Update gitignore, add helpful .idea files">
+      <created>1605161174407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605161174407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update gitignore, add helpful .idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore, add helpful .idea files" />
   </component>
 </project>
