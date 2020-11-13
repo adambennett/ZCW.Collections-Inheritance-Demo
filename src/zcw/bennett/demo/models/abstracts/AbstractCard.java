@@ -1,6 +1,5 @@
 package zcw.bennett.demo.models.abstracts;
 
-import zcw.bennett.demo.interfaces.*;
 import zcw.bennett.demo.enums.*;
 
 public abstract class AbstractCard {

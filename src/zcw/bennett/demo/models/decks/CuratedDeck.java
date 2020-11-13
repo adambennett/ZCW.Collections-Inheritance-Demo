@@ -43,7 +43,7 @@ public class CuratedDeck extends AbstractDeck<AbstractCard> {
         cards.add(new ClericCard("Friar Tuck" , "RH-1", 3, 3, 2));
 
         for (AbstractCard card : cards) {
-            this.add(card); //this.addCard(card);
+            this.addCard(card);
         }
     }
 

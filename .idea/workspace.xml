@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33833cf4-d17e-45af-87f6-4b24c632f98c" name="Default Changelist" comment="" />
+    <list default="true" id="33833cf4-d17e-45af-87f6-4b24c632f98c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zcw/bennett/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcw/bennett/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zcw/bennett/demo/models/abstracts/AbstractCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcw/bennett/demo/models/abstracts/AbstractCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zcw/bennett/demo/models/decks/CuratedDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcw/bennett/demo/models/decks/CuratedDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zcw/bennett/demo/models/players/StandardPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zcw/bennett/demo/models/players/StandardPlayer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,13 +132,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,7 +160,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605145598614</updated>
       <workItem from="1605145600486" duration="42000" />
-      <workItem from="1605145661148" duration="14842000" />
+      <workItem from="1605145661148" duration="15536000" />
+      <workItem from="1605212341460" duration="5333000" />
     </task>
     <task id="LOCAL-00001" summary="Update gitignore, add helpful .idea files">
       <created>1605161174407</created>
@@ -161,14 +170,33 @@
       <option name="project" value="LOCAL" />
       <updated>1605161174407</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update .idea files">
+      <created>1605161245824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605161245824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update gitignore, add helpful .idea files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore, add helpful .idea files" />
+    <MESSAGE value="Update .idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .idea files" />
   </component>
 </project>

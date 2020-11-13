@@ -37,18 +37,8 @@ public class StandardPlayer extends AbstractPlayer<AbstractCard> {
         }
         this.getDeck().addCard(card);
         opponent.getDeck().addCard(opponentCard);
-        if (this.energy >= card.getCost()) {
-            System.out.println("\n" + this.getName() + " played:        " + card.toString() + "\n");
-        } else {
-            System.out.println("\n" + this.getName() + " couldn't play: " + card.toString() + "\n");
-        }
-
-        if (((StandardPlayer) opponent).getEnergy() >= opponentCard.getCost()) {
-            System.out.println(opponent.getName() + " played:        " + opponentCard.toString() + "\n\n");
-        } else {
-            System.out.println(opponent.getName() + " couldn't play: " + opponentCard.toString() + "\n\n");
-        }
-
+        System.out.println("\n" + this.getName() + " played:        " + card.toString() + "\n");
+        System.out.println(opponent.getName() + " played:        " + opponentCard.toString() + "\n\n");
         System.out.println(this.getName() + " HP: " + this.getHealth() + " / " + this.getStartingHealth() + "\n");
         System.out.println(opponent.getName()  + " HP: " + opponent.getHealth() + " / " + opponent.getStartingHealth());
         System.out.println("----------------------------------------------------------------------------------------\n\n\n");

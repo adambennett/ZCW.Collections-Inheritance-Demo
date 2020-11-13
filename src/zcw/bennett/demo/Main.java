@@ -27,7 +27,7 @@ public class Main {
         } else if (player.getHealth() > 0) {
             System.out.println("\n\nAfter " + (rounds - 1) + " rounds: \n" + "YOU WIN!!!!!");
         } else {
-            System.out.println("\n\nAfter " + (rounds - 1) + " rounds: \n" + "YOU LOSE!");
+            System.out.println("\n\nAfter " + (rounds - 1) + " rounds: \n" + "YoU lOsE!");
         }
     }
 }
